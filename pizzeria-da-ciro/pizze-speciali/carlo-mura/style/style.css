@@ -119,13 +119,20 @@ body{
 .photo3{
     position: absolute;
     left: 700px;
-    margin-top: -350px;
+    margin-top: -330px;
 }
 
 .photo4{
     position: absolute;
     left: 350px;
     margin-top: -230px;
+}
+
+#ButtonMenu{
+    position: absolute;
+    left: 50px;
+    margin-top: 20px;
+    color: rgb(89, 0, 255);
 }
 
 
